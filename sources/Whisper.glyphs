@@ -94,14 +94,14 @@ name = liga;
 fontMaster = (
 {
 alignmentZones = (
-"{763, 16}",
-"{659, 16}",
-"{300, 4}",
+"{620, 16}",
+"{564, 16}",
+"{300, 16}",
 "{0, -15}",
-"{-381, -16}"
+"{-310, -16}"
 );
-ascender = 763;
-capHeight = 659;
+ascender = 554;
+capHeight = 620;
 customParameters = (
 {
 name = typoAscender;
@@ -116,20 +116,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 763;
-},
-{
-name = winDescent;
-value = 381;
-},
-{
 name = hheaAscender;
 value = 763;
 },
 {
 name = hheaDescender;
 value = -381;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 763;
+},
+{
+name = winDescent;
+value = 381;
 },
 {
 name = strikeoutPosition;
@@ -1232,7 +1236,7 @@ value = (
 );
 }
 );
-descender = -381;
+descender = -310;
 guideLines = (
 {
 name = "lc top";
@@ -1254,7 +1258,7 @@ position = "{708, 404}";
 },
 {
 name = "ordinal bottom";
-position = "{-13, 239}";
+position = "{-13, 270}";
 }
 );
 id = "16A236A6-57F5-4152-84D1-48D854BBAFA9";
@@ -14094,7 +14098,7 @@ unicode = 0142;
 },
 {
 glyphname = m;
-lastChange = "2022-03-18 06:00:18 +0000";
+lastChange = "2022-03-18 06:05:34 +0000";
 layers = (
 {
 layerId = "16A236A6-57F5-4152-84D1-48D854BBAFA9";
@@ -14112,7 +14116,7 @@ nodes = (
 "549 81 OFFCURVE",
 "549 86 CURVE",
 "492 56 LINE SMOOTH",
-"469 43 OFFCURVE",
+"469 44 OFFCURVE",
 "447 33 OFFCURVE",
 "427 26 CURVE SMOOTH",
 "423 25 OFFCURVE",
@@ -14134,7 +14138,7 @@ nodes = (
 "545 276 OFFCURVE",
 "532 276 CURVE SMOOTH",
 "508 276 OFFCURVE",
-"466 254 OFFCURVE",
+"465 256 OFFCURVE",
 "405 209 CURVE SMOOTH",
 "302 128 LINE",
 "330 215 LINE SMOOTH",
@@ -14204,7 +14208,7 @@ nodes = (
 "251 127 OFFCURVE",
 "243 107 CURVE SMOOTH",
 "227 67 LINE SMOOTH",
-"224 61 OFFCURVE",
+"225 61 OFFCURVE",
 "223 55 OFFCURVE",
 "223 49 CURVE SMOOTH",
 "223 42 OFFCURVE",
