@@ -95,7 +95,7 @@ fontMaster = (
 {
 alignmentZones = (
 "{620, 16}",
-"{564, 16}",
+"{554, 16}",
 "{300, 16}",
 "{0, -15}",
 "{-310, -16}"
@@ -105,11 +105,11 @@ capHeight = 620;
 customParameters = (
 {
 name = typoAscender;
-value = 763;
+value = 900;
 },
 {
 name = typoDescender;
-value = -381;
+value = -320;
 },
 {
 name = typoLineGap;
@@ -117,11 +117,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 763;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -381;
+value = -320;
 },
 {
 name = hheaLineGap;
@@ -129,11 +129,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 763;
+value = 900;
 },
 {
 name = winDescent;
-value = 381;
+value = 320;
 },
 {
 name = strikeoutPosition;
@@ -36150,5 +36150,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
