@@ -127,7 +127,7 @@ value = 880;
 },
 {
 name = typoDescender;
-value = -360;
+value = -400;
 },
 {
 name = typoLineGap;
@@ -139,7 +139,7 @@ value = 880;
 },
 {
 name = hheaDescender;
-value = -360;
+value = -400;
 },
 {
 name = hheaLineGap;
